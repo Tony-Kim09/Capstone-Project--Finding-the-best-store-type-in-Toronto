@@ -1,5 +1,0 @@
- The data I will be using will be the list of Toronto locations based on Postal code 
- as well as Foursquare API to find out the categories within each location. 
- With the combination of the Longitude and Latitude CSV file provided by the course for Toronto, 
- I will collectively use the data obtained to find a solution for the problem of finding the best
- possible category for different part of the city of Toronto.
