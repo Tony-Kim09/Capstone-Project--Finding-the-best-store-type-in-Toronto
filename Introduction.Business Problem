@@ -1,0 +1,4 @@
+If a client was to open a store somewhere in Toronto, what type of a store would be more beneficial? 
+Do the location of the store impact the category? What about fellow competition in nearby areas? 
+By using the Foursquare API, I can examine the number of different store categories within Toronto and analyze the patterns between the stores.
+I can also examine the store by clustering parts of Toronto to have a better idea of what store would be beneficial for different parts of Toronto.
