@@ -1,6 +1,4 @@
-# Capstone Project: Finding the best store type in Toronto
-</br>
-
+# Capstone Project: Finding the best store type in Toronto</br>
 ###### What this project seeks to accomplish
 If you were thinking about opening a new store in Toronto, what category would be the best fit? What are your competitions like or how popular is one category over others. Are there any correlations between these categories? 
 The final project file may not load the map using Folium. Use this alternate link to see the full project.
