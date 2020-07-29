@@ -3,7 +3,7 @@
 If you were thinking about opening a new store in Toronto, what category would be the best fit? What are your competitions like or how popular is one category over others. Are there any correlations between these categories? 
 ###### What I learned 
 - How to extract data from external sources such as Wikipedia
-- Use of data analysis libraries such as Pandas, Numpy, WordCloud, Matplotlib, and Sklearn
+- Use of data analysis libraries such as Pandas, Numpy, WordCloud, Matplotlib, Folium, and Sklearn
 - Understanding the use of Geospatial data 
 - Using Foursquare API services to make asynchronous calls and obtain desired data
 - Using python to create methods to carefully manipulate obtained data as well as creating visuals to illustrate what I found
