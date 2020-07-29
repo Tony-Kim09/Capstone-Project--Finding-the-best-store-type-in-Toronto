@@ -4,8 +4,8 @@ If you were thinking about opening a new store in Toronto, what category would b
 ###### What I learned 
 - How to extract data from external sources such as Wikipedia
 - Use of data analysis libraries such as Pandas, Numpy, WordCloud, Matplotlib, and Sklearn
-- Understaind the use of Geospatial data 
-- Using Foursquare API services to make asynchronous calls to obtain desired data
+- Understanding the use of Geospatial data 
+- Using Foursquare API services to make asynchronous calls and obtain desired data
 - Using python to create methods to carefully manipulate obtained data as well as creating visuals to illustrate what I found
 
 ###### Access my Project through this Link
